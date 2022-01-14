@@ -12,3 +12,4 @@ some tests
  - [ ] take http client interface from user
  - [ ] chunks and threads should be independent
  - [ ] placeholder media downloads for examples
+ - [ ] simple proxy as example
