@@ -9,4 +9,5 @@ some tests
  - [ ] go routine
  - [ ] thread number benchmarking to auto determine number of threads
  - [ ] check server support with header and resp body length
- - [ ] take http client interface from user 
+ - [ ] take http client interface from user
+ - [ ] chunks and threads should be independent
